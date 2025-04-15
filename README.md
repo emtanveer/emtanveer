@@ -33,13 +33,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emtanveer&theme=gruvbox_light&no-frame=true&no-bg=false&margin-w=4)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emtanveer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://drive.google.com/file/d/1GGn_Q_mH2GF_kPhfmMhDzHwVGcxdFA6Q/view?usp=sharing"  />
-</div>
 
 ###
   
